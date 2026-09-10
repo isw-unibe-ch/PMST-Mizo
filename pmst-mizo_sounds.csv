@@ -1,0 +1,22 @@
+sound_id,sound_clts,sound_phoible,label,CLTS_id,PHOIBLE_id,class,tone,stress,syllabic,short,long,consonantal,sonorant,continuant,delayedRelease,approximant,tap,trill,nasal,lateral,labial,round,labiodental,coronal,anterior,distributed,strident,dorsal,high,low,front,back,tense,retractedTongueRoot,advancedTongueRoot,periodicGlottalSource,epilaryngealSource,spreadGlottis,constrictedGlottis,fortis,raisedLarynxEjective,loweredLarynxImplosive,click,language_id
+k,k,k,voiceless velar stop consonant,voiceless_velar_stop_consonant,5A838FF4DABE1950734CFAFAB9383903,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,+,+,-,-,-,0,0,0,-,-,-,-,-,-,-,-,mizo
+l,l,l,voiced alveolar lateral approximant consonant,voiced_alveolar_lateral_approximant_consonant,03413638BD1DFC7AEF53192FEF71F017,consonant,0,-,-,-,-,+,+,+,0,+,-,-,-,+,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,mizo
+m,m,m,voiced bilabial nasal consonant,voiced_bilabial_nasal_consonant,5AE9663626770D1D4B97AAE5769AB83C,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,+,-,-,-,0,0,0,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,mizo
+m̥,m̥,m̥,devoiced voiced bilabial nasal consonant,devoiced_voiced_bilabial_nasal_consonant,3916F896B8FCC2F6FD583661E5332F28,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,+,-,-,-,0,0,0,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,mizo
+n,n,n,voiced alveolar nasal consonant,voiced_alveolar_nasal_consonant,E03DA215BAB0A158BA5D1CB5C4D5D6FD,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,mizo
+r,r,r,voiced alveolar trill consonant,voiced_alveolar_trill_consonant,5D1D7FB69E1A3C0C60001FBC0C19ED87,consonant,0,-,-,-,-,+,+,+,0,+,-,+,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,+,-,-,-,-,-,-,-,mizo
+s,s,s,voiceless alveolar sibilant fricative consonant,voiceless_alveolar_sibilant_fricative_consonant,7FF174469DAC4E61520F4E1610B2F088,consonant,0,-,-,-,-,+,-,+,+,-,-,-,-,-,-,0,0,+,+,-,+,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,mizo
+t,t,t,voiceless alveolar stop consonant,voiceless_alveolar_stop_consonant,9F90F95459807624A486F03FE5A89978,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,+,+,-,-,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,mizo
+ts,ts,ts,voiceless alveolar sibilant affricate consonant,voiceless_alveolar_sibilant_affricate_consonant,106C7FE93D986D037407524D08F3599A,consonant,0,-,-,-,-,+,-,-,+,-,-,-,-,-,-,0,0,+,+,-,+,-,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,mizo
+ŋ,ŋ,ŋ,voiced velar nasal consonant,voiced_velar_nasal_consonant,941ED37AAF5E9C4E1B40D85008C6B2D9,consonant,0,-,-,-,-,+,+,-,0,-,-,-,+,-,-,0,0,-,0,0,0,+,+,-,-,-,0,0,0,+,-,-,-,-,-,-,-,mizo
+ʔ,ʔ,ʔ,voiceless glottal stop consonant,voiceless_glottal_stop_consonant,0844E3AEAF1C8E3837465942B92FE4C5,consonant,0,-,-,-,-,+,-,-,-,-,-,-,-,-,-,0,0,-,0,0,0,-,0,0,0,0,0,0,0,-,-,-,+,-,-,-,-,mizo
+ei,ei,ei,from unrounded close-mid front to unrounded close front diphthong,from_unrounded_close-mid_front_to_unrounded_close_front_diphthong,3649FB0AF894ECF74399C9B5AE4EFB3A,diphthong,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,"-,+",-,+,-,+,-,-,+,-,-,-,0,-,-,0,mizo
+ou,ou,ou,from rounded close-mid back to rounded close back diphthong,from_rounded_close-mid_back_to_rounded_close_back_diphthong,BD43B88339559C4112037A751DD12AD5,diphthong,0,-,+,-,-,-,+,+,0,+,-,-,-,-,+,+,-,-,0,0,0,+,"-,+",-,-,+,+,-,-,+,-,-,-,0,-,-,0,mizo
+¹,¹,˨,short from-low tone,short_from-low_tone,1C26A4A7D5F0697C7EA34BA73FC2F46E,tone,+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mizo
+¹⁵,¹⁵,˨˦,rising from-low to-high tone,rising_from-low_to-high_tone,22EED960380C45E1FAF421D98727ABF2,tone,+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mizo
+⁵,⁵,˦,short from-high tone,short_from-high_tone,0524CD95243C622D69973D187BC3F06F,tone,+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mizo
+a,a,a,unrounded open front vowel,unrounded_open_front_vowel,72FB536ACFF408163656BBCDAFCAC6F6,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,-,+,-,-,0,-,-,+,-,-,-,0,-,-,0,mizo
+e,e,e,unrounded close-mid front vowel,unrounded_close-mid_front_vowel,199408E3D0668F10F475143F0E8CC0CB,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,-,-,+,-,+,-,-,+,-,-,-,0,-,-,0,mizo
+i,i,i,unrounded close front vowel,unrounded_close_front_vowel,F0585BB57111C322D6E7DABB0D01F9EA,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,-,0,0,-,0,0,0,+,+,-,+,-,+,-,-,+,-,-,-,0,-,-,0,mizo
+u,u,u,rounded close back vowel,rounded_close_back_vowel,58EB693AE523323410326D60806B9ADF,vowel,0,-,+,-,-,-,+,+,0,+,-,-,-,-,+,+,-,-,0,0,0,+,+,-,-,+,+,-,-,+,-,-,-,0,-,-,0,mizo
+Σ,Σ,Σ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mizo

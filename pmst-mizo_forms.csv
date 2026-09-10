@@ -1,0 +1,301 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,source,page,language_id
+mizo001,no_stem,1.sg,kěimàɁ,kěimàɁ,kěi+màɁ,k ei ¹⁵ m a ¹ ʔ,k ei ¹⁵ + m a ¹ ʔ,pragm_marked,Lalhminghlui2026Mizo,nopage,mizo
+mizo002,no_stem,1.sg,kěi,kěi,kěi,k ei ¹⁵,k ei ¹⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo003,no_stem,1.pl,kěimàɁnî,kěimàɁnî,kěi+màɁ+nî,k ei ¹⁵ m a ¹ ʔ n i ⁵¹,k ei ¹⁵ + m a ¹ ʔ + n i ⁵¹,pragm_marked,Lalhminghlui2026Mizo,nopage,mizo
+mizo004,no_stem,1.pl,kèinî,kèinî,kèi+nî,k ei ¹ n i ⁵¹,k ei ¹ + n i ⁵¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo005,no_stem,2.sg,nǎŋmàɁ,nǎŋmàɁ,nǎŋ+màɁ,n a ¹⁵ ŋ m a ¹ ʔ,n a ¹⁵ ŋ + m a ¹ ʔ,pragm_marked,Lalhminghlui2026Mizo,nopage,mizo
+mizo006,no_stem,2.sg,nǎŋ,nǎŋ,nǎŋ,n a ¹⁵ ŋ,n a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo007,no_stem,2.pl,nǎŋmàɁnî,nǎŋmàɁnî,nǎŋ+màɁ+nî,n a ¹⁵ ŋ m a ¹ ʔ n i ⁵¹,n a ¹⁵ ŋ + m a ¹ ʔ + n i ⁵¹,pragm_marked,Lalhminghlui2026Mizo,nopage,mizo
+mizo008,no_stem,2.pl,nàŋnî,nàŋnî,nàŋ+nî,n a ¹ ŋ n i ⁵¹,n a ¹ ŋ + n i ⁵¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo009,no_stem,3.sg,ámàɁ,ámàɁ,á+màɁ,a ⁵ m a ¹ ʔ,a ⁵ + m a ¹ ʔ,pragm_marked,Lalhminghlui2026Mizo,nopage,mizo
+mizo010,no_stem,3.sg,ánî,ánî,á+nî,a ⁵ n i ⁵¹,a ⁵ + n i ⁵¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo011,no_stem,3.pl,ǎnmàɁnî,ǎnmàɁnî,ǎn+màɁ+nî,a ¹⁵ n m a ¹ ʔ n i ⁵¹,a ¹⁵ n + m a ¹ ʔ + n i ⁵¹,pragm_marked,Lalhminghlui2026Mizo,nopage,mizo
+mizo012,no_stem,3.pl,ànnî,ànnî,àn+nî,a ¹ n n i ⁵¹,a ¹ n + n i ⁵¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo013,kal,1.sg.fut.aff,kà kál ǎŋ,kà Σ ǎŋ,kà+Σ+ǎŋ,k a ¹ Σ a ¹⁵ ŋ,k a ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo014,tʰo:,1.sg.fut.aff,ká tʰò: ǎŋ,ká Σ ǎŋ,ká+Σ+ǎŋ,k a ⁵ Σ a ¹⁵ ŋ,k a ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo015,kal,1.pl.fut.aff,kàn kál ǎŋ,kàn Σ ǎŋ,kà+n+Σ+ǎŋ,k a ¹ n Σ a ¹⁵ ŋ,k a ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo016,tʰo:,1.pl.fut.aff,kǎn tʰò: ǎŋ,kǎn Σ ǎŋ,kǎ+n+Σ+ǎŋ,k a ¹⁵ n Σ a ¹⁵ ŋ,k a ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo017,ei,1.sg.2.sg.fut.aff,kà éi àŋ tsé,kà Σ àŋ tsé,kà+Σ+àŋ+tsé,k a ¹ Σ a ¹ ŋ ts e ⁵,k a ¹ + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo018,mu,1.sg.2.sg.fut.aff,ká m̥ù àŋ tsé,ká Σ àŋ tsé,ká+Σ+àŋ+tsé,k a ⁵ Σ a ¹ ŋ ts e ⁵,k a ⁵ + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo019,ei,1.sg.2.pl.fut.aff,kà éi àŋ tsé ú,kà Σ àŋ tsé ú,kà+Σ+àŋ+tsé+ú,k a ¹ Σ a ¹ ŋ ts e ⁵ u ⁵,k a ¹ + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo020,mu,1.sg.2.pl.fut.aff,ká m̥ù àŋ tsé ú,ká Σ àŋ tsé ú,ká+Σ+àŋ+tsé+ú,k a ⁵ Σ a ¹ ŋ ts e ⁵ u ⁵,k a ⁵ + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo021,ei,1.pl.2.sg.fut.aff,kàn éi àŋ tsé,kàn Σ àŋ tsé,kà+n+Σ+àŋ+tsé,k a ¹ n Σ a ¹ ŋ ts e ⁵,k a ¹ + n + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo022,mu,1.pl.2.sg.fut.aff,kǎn m̥ù àŋ tsé,kǎn Σ àŋ tsé,kǎ+n+Σ+àŋ+tsé,k a ¹⁵ n Σ a ¹ ŋ ts e ⁵,k a ¹⁵ + n + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo023,ei,1.pl.2.pl.fut.aff,kàn éi àŋ tsé ú,kàn Σ àŋ tsé ú,kà+n+Σ+àŋ+tsé+ú,k a ¹ n Σ a ¹ ŋ ts e ⁵ u ⁵,k a ¹ + n + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo024,mu,1.pl.2.pl.fut.aff,kǎn m̥ù àŋ tsé ú,kǎn Σ àŋ tsé ú,kǎ+n+Σ+àŋ+tsé+ú,k a ¹⁵ n Σ a ¹ ŋ ts e ⁵ u ⁵,k a ¹⁵ + n + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo025,ei,1.sg.3.sg.fut.aff,kà éi ǎŋ,kà Σ ǎŋ,kà+Σ+ǎŋ,k a ¹ Σ a ¹⁵ ŋ,k a ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo026,mu,1.sg.3.sg.fut.aff,ká m̥ù ǎŋ,ká Σ ǎŋ,ká+Σ+ǎŋ,k a ⁵ Σ a ¹⁵ ŋ,k a ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo027,ei,1.sg.3.pl.fut.aff,kà éi ǎŋ,kà Σ ǎŋ,kà+Σ+ǎŋ,k a ¹ Σ a ¹⁵ ŋ,k a ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo028,mu,1.sg.3.pl.fut.aff,ká m̥ù ǎŋ,ká Σ ǎŋ,ká+Σ+ǎŋ,k a ⁵ Σ a ¹⁵ ŋ,k a ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo029,ei,1.pl.3.sg.fut.aff,kàn éi ǎŋ,kàn Σ ǎŋ,kà+n+Σ+ǎŋ,k a ¹ n Σ a ¹⁵ ŋ,k a ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo030,mu,1.pl.3.sg.fut.aff,kǎn m̥ù ǎŋ,kǎn Σ ǎŋ,kǎ+n+Σ+ǎŋ,k a ¹⁵ n Σ a ¹⁵ ŋ,k a ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo031,ei,1.pl.3.pl.fut.aff,kàn éi ǎŋ,kàn Σ ǎŋ,kà+n+Σ+ǎŋ,k a ¹ n Σ a ¹⁵ ŋ,k a ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo032,mu,1.pl.3.pl.fut.aff,kǎn m̥ù ǎŋ,kǎn Σ ǎŋ,kǎ+n+Σ+ǎŋ,k a ¹⁵ n Σ a ¹⁵ ŋ,k a ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo033,kal,2.sg.fut.aff,ì kál ǎŋ,ì Σ ǎŋ,ì+Σ+ǎŋ,i ¹ Σ a ¹⁵ ŋ,i ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo034,tʰo:,2.sg.fut.aff,í tʰò: ǎŋ,í Σ ǎŋ,í+Σ+ǎŋ,i ⁵ Σ a ¹⁵ ŋ,i ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo035,kal,2.pl.fut.aff,ìn kál ǎŋ,ìn Σ ǎŋ,ì+n+Σ+ǎŋ,i ¹ n Σ a ¹⁵ ŋ,i ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo036,tʰo:,2.pl.fut.aff,ǐn tʰò: ǎŋ,ǐn Σ ǎŋ,ǐ+n+Σ+ǎŋ,i ¹⁵ n Σ a ¹⁵ ŋ,i ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo037,ei,2.sg.1.sg.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo038,ei,2.sg.1.sg.fut.aff,mì éi ǎŋ,mì Σ ǎŋ,mì+Σ+ǎŋ,m i ¹ Σ a ¹⁵ ŋ,m i ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo039,mu,2.sg.1.sg.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo040,mu,2.sg.1.sg.fut.aff,mí m̥ù ǎŋ,mí Σ ǎŋ,mí+Σ+ǎŋ,m i ⁵ Σ a ¹⁵ ŋ,m i ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo041,ei,2.sg.1.pl.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo042,mu,2.sg.1.pl.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo043,ei,2.pl.1.sg.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo044,mu,2.pl.1.sg.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo045,ei,2.pl.1.pl.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo046,mu,2.pl.1.pl.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo047,ei,2.sg.3.sg.fut.aff,ì éi ǎŋ,ì Σ ǎŋ,ì+Σ+ǎŋ,i ¹ Σ a ¹⁵ ŋ,i ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo048,mu,2.sg.3.sg.fut.aff,í m̥ù ǎŋ,í Σ ǎŋ,í+Σ+ǎŋ,i ⁵ Σ a ¹⁵ ŋ,i ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo049,ei,2.sg.3.pl.fut.aff,ì éi ǎŋ,ì Σ ǎŋ,ì+Σ+ǎŋ,i ¹ Σ a ¹⁵ ŋ,i ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo050,mu,2.sg.3.pl.fut.aff,í m̥ù ǎŋ,í Σ ǎŋ,í+Σ+ǎŋ,i ⁵ Σ a ¹⁵ ŋ,i ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo051,ei,2.pl.3.sg.fut.aff,ìn éi ǎŋ,ìn Σ ǎŋ,ì+n+Σ+ǎŋ,i ¹ n Σ a ¹⁵ ŋ,i ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo052,mu,2.pl.3.sg.fut.aff,ǐn m̥ù ǎŋ,ǐn Σ ǎŋ,ǐ+n+Σ+ǎŋ,i ¹⁵ n Σ a ¹⁵ ŋ,i ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo053,ei,2.pl.3.pl.fut.aff,ìn éi ǎŋ,ìn Σ ǎŋ,ì+n+Σ+ǎŋ,i ¹ n Σ a ¹⁵ ŋ,i ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo054,mu,2.pl.3.pl.fut.aff,ǐn m̥ù ǎŋ,ǐn Σ ǎŋ,ǐ+n+Σ+ǎŋ,i ¹⁵ n Σ a ¹⁵ ŋ,i ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo055,kal,3.sg.fut.aff,à kál ǎŋ,à Σ ǎŋ,à+Σ+ǎŋ,a ¹ Σ a ¹⁵ ŋ,a ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo056,tʰo:,3.sg.fut.aff,á tʰò: ǎŋ,á Σ ǎŋ,á+Σ+ǎŋ,a ⁵ Σ a ¹⁵ ŋ,a ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo057,kal,3.pl.fut.aff,àn kál ǎŋ,àn Σ ǎŋ,à+n+Σ+ǎŋ,a ¹ n Σ a ¹⁵ ŋ,a ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo058,tʰo:,3.pl.fut.aff,ǎn tʰò: ǎŋ,ǎn Σ ǎŋ,ǎ+n+Σ+ǎŋ,a ¹⁵ n Σ a ¹⁵ ŋ,a ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo059,ei,3.sg.1.sg.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo060,ei,3.sg.1.sg.fut.aff,mì éi ǎŋ,mì Σ ǎŋ,mì+Σ+ǎŋ,m i ¹ Σ a ¹⁵ ŋ,m i ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo061,mu,3.sg.1.sg.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo062,mu,3.sg.1.sg.fut.aff,mí m̥ù ǎŋ,mí Σ ǎŋ,mí+Σ+ǎŋ,m i ⁵ Σ a ¹⁵ ŋ,m i ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo063,ei,3.sg.1.pl.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo064,mu,3.sg.1.pl.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo065,ei,3.pl.1.sg.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo066,mu,3.pl.1.sg.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo067,ei,3.pl.1.pl.fut.aff,mìn éi ǎŋ,mìn Σ ǎŋ,mìn+Σ+ǎŋ,m i ¹ n Σ a ¹⁵ ŋ,m i ¹ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo068,mu,3.pl.1.pl.fut.aff,mǐn m̥ù ǎŋ,mǐn Σ ǎŋ,mǐn+Σ+ǎŋ,m i ¹⁵ n Σ a ¹⁵ ŋ,m i ¹⁵ n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo069,ei,3.sg.2.sg.fut.aff,à éi àŋ tsé,à Σ àŋ tsé,à+Σ+àŋ+tsé,a ¹ Σ a ¹ ŋ ts e ⁵,a ¹ + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo070,mu,3.sg.2.sg.fut.aff,á m̥ù àŋ tsé,á Σ àŋ tsé,á+Σ+àŋ+tsé,a ⁵ Σ a ¹ ŋ ts e ⁵,a ⁵ + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo071,ei,3.sg.2.pl.fut.aff,à éi àŋ tsé ú,à Σ àŋ tsé ú,à+Σ+àŋ+tsé+ú,a ¹ Σ a ¹ ŋ ts e ⁵ u ⁵,a ¹ + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo072,mu,3.sg.2.pl.fut.aff,á m̥ù àŋ tsé ú,á Σ àŋ tsé ú,á+Σ+àŋ+tsé+ú,a ⁵ Σ a ¹ ŋ ts e ⁵ u ⁵,a ⁵ + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo073,ei,3.pl.2.sg.fut.aff,àn éi àŋ tsé,àn Σ àŋ tsé,à+n+Σ+àŋ+tsé,a ¹ n Σ a ¹ ŋ ts e ⁵,a ¹ + n + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo074,mu,3.pl.2.sg.fut.aff,ǎn m̥ù àŋ tsé,ǎn Σ àŋ tsé,ǎ+n+Σ+àŋ+tsé,a ¹⁵ n Σ a ¹ ŋ ts e ⁵,a ¹⁵ + n + Σ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo075,ei,3.pl.2.pl.fut.aff,àn éi àŋ tsé ú,àn Σ àŋ tsé ú,à+n+Σ+àŋ+tsé+ú,a ¹ n Σ a ¹ ŋ ts e ⁵ u ⁵,a ¹ + n + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo076,mu,3.pl.2.pl.fut.aff,ǎn m̥ù àŋ tsé ú,ǎn Σ àŋ tsé ú,ǎ+n+Σ+àŋ+tsé+ú,a ¹⁵ n Σ a ¹ ŋ ts e ⁵ u ⁵,a ¹⁵ + n + Σ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo077,ei,3.sg.3.sg.fut.aff,à éi ǎŋ,à Σ ǎŋ,à+Σ+ǎŋ,a ¹ Σ a ¹⁵ ŋ,a ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo078,mu,3.sg.3.sg.fut.aff,á m̥ù ǎŋ,á Σ ǎŋ,á+Σ+ǎŋ,a ⁵ Σ a ¹⁵ ŋ,a ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo079,ei,3.sg.3.pl.fut.aff,à éi ǎŋ,à Σ ǎŋ,à+Σ+ǎŋ,a ¹ Σ a ¹⁵ ŋ,a ¹ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo080,mu,3.sg.3.pl.fut.aff,á m̥ù ǎŋ,á Σ ǎŋ,á+Σ+ǎŋ,a ⁵ Σ a ¹⁵ ŋ,a ⁵ + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo081,ei,3.pl.3.sg.fut.aff,àn éi ǎŋ,àn Σ ǎŋ,à+n+Σ+ǎŋ,a ¹ n Σ a ¹⁵ ŋ,a ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo082,mu,3.pl.3.sg.fut.aff,ǎn m̥ù ǎŋ,ǎn Σ ǎŋ,ǎ+n+Σ+ǎŋ,a ¹⁵ n Σ a ¹⁵ ŋ,a ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo083,ei,3.pl.3.pl.fut.aff,àn éi ǎŋ,àn Σ ǎŋ,à+n+Σ+ǎŋ,a ¹ n Σ a ¹⁵ ŋ,a ¹ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo084,mu,3.pl.3.pl.fut.aff,ǎn m̥ù ǎŋ,ǎn Σ ǎŋ,ǎ+n+Σ+ǎŋ,a ¹⁵ n Σ a ¹⁵ ŋ,a ¹⁵ + n + Σ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo085,kal,1.sg.fut.neg,kà kál lòu ǎŋ,kà Σ lòu ǎŋ,kà+Σ+lòu+ǎŋ,k a ¹ Σ l ou ¹ a ¹⁵ ŋ,k a ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo086,tʰo:,1.sg.fut.neg,ká tʰò lòu ǎŋ,ká Σ lòu ǎŋ,ká+Σ+lòu+ǎŋ,k a ⁵ Σ l ou ¹ a ¹⁵ ŋ,k a ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo087,kal,1.pl.fut.neg,kàn kál lòu ǎŋ,kàn Σ lòu ǎŋ,kà+n+Σ+lòu+ǎŋ,k a ¹ n Σ l ou ¹ a ¹⁵ ŋ,k a ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo088,tʰo:,1.pl.fut.neg,kǎn tʰò lòu ǎŋ,kǎn Σ lòu ǎŋ,kǎ+n+Σ+lòu+ǎŋ,k a ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,k a ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo089,ei,1.sg.2.sg.fut.neg,kà éi lòu àŋ tsé,kà Σ lòu àŋ tsé,kà+Σ+lòu+àŋ+tsé,k a ¹ Σ l ou ¹ a ¹ ŋ ts e ⁵,k a ¹ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo090,mu,1.sg.2.sg.fut.neg,ká m̥ù lòu àŋ tsé,ká Σ lòu àŋ tsé,ká+Σ+lòu+àŋ+tsé,k a ⁵ Σ l ou ¹ a ¹ ŋ ts e ⁵,k a ⁵ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo091,ei,1.sg.2.pl.fut.neg,kà éi lòu àŋ tsé ú,kà Σ lòu àŋ tsé ú,kà+Σ+lòu+àŋ+tsé+ú,k a ¹ Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,k a ¹ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo092,ei,1.sg.3.pl.fut.neg,kà éi lòu ǎŋ,kà Σ lòu ǎŋ,kà+Σ+lòu+ǎŋ,k a ¹ Σ l ou ¹ a ¹⁵ ŋ,k a ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo093,mu,1.sg.2.pl.fut.neg,ká m̥ù lòu àŋ tsé ú,ká Σ lòu àŋ tsé ú,ká+Σ+lòu+àŋ+tsé+ú,k a ⁵ Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,k a ⁵ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo094,mu,1.sg.3.pl.fut.neg,ká m̥ù lòu ǎŋ,ká Σ lòu ǎŋ,ká+Σ+lòu+ǎŋ,k a ⁵ Σ l ou ¹ a ¹⁵ ŋ,k a ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo095,ei,1.pl.2.sg.fut.neg,kàn éi lòu àŋ tsé,kàn Σ lòu àŋ tsé,kà+n+Σ+lòu+àŋ+tsé,k a ¹ n Σ l ou ¹ a ¹ ŋ ts e ⁵,k a ¹ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo096,mu,1.pl.2.sg.fut.neg,kǎn m̥ù lòu àŋ tsé,kǎn Σ lòu àŋ tsé,kǎ+n+Σ+lòu+àŋ+tsé,k a ¹⁵ n Σ l ou ¹ a ¹ ŋ ts e ⁵,k a ¹⁵ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo097,ei,1.pl.2.pl.fut.neg,kàn éi lòu àŋ tsé ú,kàn Σ lòu àŋ tsé ú,kà+n+Σ+lòu+àŋ+tsé+ú,k a ¹ n Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,k a ¹ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo098,mu,1.pl.2.pl.fut.neg,kǎn m̥ù lòu àŋ tsé ú,kǎn Σ lòu àŋ tsé ú,kǎ+n+Σ+lòu+àŋ+tsé+ú,k a ¹⁵ n Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,k a ¹⁵ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo099,ei,1.sg.3.sg.fut.neg,kà éi lòu ǎŋ,kà Σ lòu ǎŋ,kà+Σ+lòu+ǎŋ,k a ¹ Σ l ou ¹ a ¹⁵ ŋ,k a ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo100,mu,1.sg.3.sg.fut.neg,ká m̥ù lòu ǎŋ,ká Σ lòu ǎŋ,ká+Σ+lòu+ǎŋ,k a ⁵ Σ l ou ¹ a ¹⁵ ŋ,k a ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo101,ei,1.pl.3.sg.fut.neg,kàn éi lòu ǎŋ,kàn Σ lòu ǎŋ,kà+n+Σ+lòu+ǎŋ,k a ¹ n Σ l ou ¹ a ¹⁵ ŋ,k a ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo102,mu,1.pl.3.sg.fut.neg,kǎn m̥ù lòu ǎŋ,kǎn Σ lòu ǎŋ,kǎ+n+Σ+lòu+ǎŋ,k a ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,k a ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo103,ei,1.pl.3.pl.fut.neg,kàn éi lòu ǎŋ,kàn Σ lòu ǎŋ,kà+n+Σ+lòu+ǎŋ,k a ¹ n Σ l ou ¹ a ¹⁵ ŋ,k a ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo104,mu,1.pl.3.pl.fut.neg,kǎn m̥ù lòu ǎŋ,kǎn Σ lòu ǎŋ,kǎ+n+Σ+lòu+ǎŋ,k a ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,k a ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo105,kal,2.sg.fut.neg,ì kál lòu ǎŋ,ì Σ lòu ǎŋ,ì+Σ+lòu+ǎŋ,i ¹ Σ l ou ¹ a ¹⁵ ŋ,i ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo106,tʰo:,2.sg.fut.neg,í tʰò lòu ǎŋ,í Σ lòu ǎŋ,í+Σ+lòu+ǎŋ,i ⁵ Σ l ou ¹ a ¹⁵ ŋ,i ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo107,kal,2.pl.fut.neg,ìn kál lòu ǎŋ,ìn Σ lòu ǎŋ,ì+n+Σ+lòu+ǎŋ,i ¹ n Σ l ou ¹ a ¹⁵ ŋ,i ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo108,tʰo:,2.pl.fut.neg,ǐn tʰò lòu ǎŋ,ǐn Σ lòu ǎŋ,ǐ+n+Σ+lòu+ǎŋ,i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,i ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo109,ei,2.sg.1.sg.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo110,ei,2.sg.1.sg.fut.neg,mì éi lòu ǎŋ,mì Σ lòu ǎŋ,mì+Σ+lòu+ǎŋ,m i ¹ Σ l ou ¹ a ¹⁵ ŋ,m i ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo111,mu,2.sg.1.sg.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo112,mu,2.sg.1.sg.fut.neg,mí m̥ù lòu ǎŋ,mí Σ lòu ǎŋ,mí+Σ+lòu+ǎŋ,m i ⁵ Σ l ou ¹ a ¹⁵ ŋ,m i ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo113,ei,2.sg.1.pl.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo114,mu,2.sg.1.pl.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo115,ei,2.pl.1.sg.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo116,mu,2.pl.1.sg.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo117,ei,2.pl.1.pl.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo118,mu,2.pl.1.pl.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo119,ei,2.sg.3.sg.fut.neg,ì éi lòu ǎŋ,ì Σ lòu ǎŋ,ì+Σ+lòu+ǎŋ,i ¹ Σ l ou ¹ a ¹⁵ ŋ,i ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo120,mu,2.sg.3.sg.fut.neg,í m̥ù lòu ǎŋ,í Σ lòu ǎŋ,í+Σ+lòu+ǎŋ,i ⁵ Σ l ou ¹ a ¹⁵ ŋ,i ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo121,ei,2.sg.3.pl.fut.neg,ì éi lòu ǎŋ,ì Σ lòu ǎŋ,ì+Σ+lòu+ǎŋ,i ¹ Σ l ou ¹ a ¹⁵ ŋ,i ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo122,mu,2.sg.3.pl.fut.neg,í m̥ù lòu ǎŋ,í Σ lòu ǎŋ,í+Σ+lòu+ǎŋ,i ⁵ Σ l ou ¹ a ¹⁵ ŋ,i ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo123,ei,2.pl.3.sg.fut.neg,ìn éi lòu ǎŋ,ìn Σ lòu ǎŋ,ì+n+Σ+lòu+ǎŋ,i ¹ n Σ l ou ¹ a ¹⁵ ŋ,i ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo124,mu,2.pl.3.sg.fut.neg,ǐn m̥ù lòu ǎŋ,ǐn Σ lòu ǎŋ,ǐ+n+Σ+lòu+ǎŋ,i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,i ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo125,ei,2.pl.3.pl.fut.neg,ìn éi lòu ǎŋ,ìn Σ lòu ǎŋ,ì+n+Σ+lòu+ǎŋ,i ¹ n Σ l ou ¹ a ¹⁵ ŋ,i ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo126,mu,2.pl.3.pl.fut.neg,ǐn m̥ù lòu ǎŋ,ǐn Σ lòu ǎŋ,ǐ+n+Σ+lòu+ǎŋ,i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,i ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo127,kal,3.sg.fut.neg,à kál lòu ǎŋ,à Σ lòu ǎŋ,à+Σ+lòu+ǎŋ,a ¹ Σ l ou ¹ a ¹⁵ ŋ,a ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo128,tʰo:,3.sg.fut.neg,á tʰò lòu ǎŋ,á Σ lòu ǎŋ,á+Σ+lòu+ǎŋ,a ⁵ Σ l ou ¹ a ¹⁵ ŋ,a ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo129,kal,3.pl.fut.neg,àn kál lòu ǎŋ,àn Σ lòu ǎŋ,à+n+Σ+lòu+ǎŋ,a ¹ n Σ l ou ¹ a ¹⁵ ŋ,a ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo130,tʰo:,3.pl.fut.neg,ǎn tʰò lòu ǎŋ,ǎn Σ lòu ǎŋ,ǎ+n+Σ+lòu+ǎŋ,a ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,a ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo131,ei,3.sg.1.sg.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo132,ei,3.sg.1.sg.fut.neg,mì éi lòu ǎŋ,mì Σ lòu ǎŋ,mì+Σ+lòu+ǎŋ,m i ¹ Σ l ou ¹ a ¹⁵ ŋ,m i ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo133,mu,3.sg.1.sg.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo134,mu,3.sg.1.sg.fut.neg,mí m̥ù lòu ǎŋ,mí Σ lòu ǎŋ,mí+Σ+lòu+ǎŋ,m i ⁵ Σ l ou ¹ a ¹⁵ ŋ,m i ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo135,ei,3.sg.1.pl.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo136,mu,3.sg.1.pl.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo137,ei,3.pl.1.sg.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo138,mu,3.pl.1.sg.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo139,ei,3.pl.1.pl.fut.neg,mìn éi lòu ǎŋ,mìn Σ lòu ǎŋ,mìn+Σ+lòu+ǎŋ,m i ¹ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo140,mu,3.pl.1.pl.fut.neg,mǐn m̥ù lòu ǎŋ,mǐn Σ lòu ǎŋ,mǐn+Σ+lòu+ǎŋ,m i ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,m i ¹⁵ n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo141,ei,3.sg.2.sg.fut.neg,à éi lòu àŋ tsé,à Σ lòu àŋ tsé,à+Σ+lòu+àŋ+tsé,a ¹ Σ l ou ¹ a ¹ ŋ ts e ⁵,a ¹ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo142,mu,3.sg.2.sg.fut.neg,á m̥ù lòu àŋ tsé,á Σ lòu àŋ tsé,á+Σ+lòu+àŋ+tsé,a ⁵ Σ l ou ¹ a ¹ ŋ ts e ⁵,a ⁵ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo143,ei,3.sg.2.pl.fut.neg,à éi lòu àŋ tsé ú,à Σ lòu àŋ tsé ú,à+Σ+lòu+àŋ+tsé+ú,a ¹ Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,a ¹ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo144,mu,3.sg.2.pl.fut.neg,á m̥ù lòu àŋ tsé ú,á Σ lòu àŋ tsé ú,á+Σ+lòu+àŋ+tsé+ú,a ⁵ Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,a ⁵ + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo145,ei,3.pl.2.sg.fut.neg,àn éi lòu àŋ tsé,àn Σ lòu àŋ tsé,à+n+Σ+lòu+àŋ+tsé,a ¹ n Σ l ou ¹ a ¹ ŋ ts e ⁵,a ¹ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo146,mu,3.pl.2.sg.fut.neg,ǎn m̥ù lòu àŋ tsé,ǎn Σ lòu àŋ tsé,ǎ+n+Σ+lòu+àŋ+tsé,a ¹⁵ n Σ l ou ¹ a ¹ ŋ ts e ⁵,a ¹⁵ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo147,ei,3.pl.2.pl.fut.neg,àn éi lòu àŋ tsé ú,àn Σ lòu àŋ tsé ú,à+n+Σ+lòu+àŋ+tsé+ú,a ¹ n Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,a ¹ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo148,mu,3.pl.2.pl.fut.neg,ǎn m̥ù lòu àŋ tsé ú,ǎn Σ lòu àŋ tsé ú,ǎ+n+Σ+lòu+àŋ+tsé+ú,a ¹⁵ n Σ l ou ¹ a ¹ ŋ ts e ⁵ u ⁵,a ¹⁵ + n + Σ + l ou ¹ + a ¹ ŋ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo149,ei,3.sg.3.sg.fut.neg,à éi lòu ǎŋ,à Σ lòu ǎŋ,à+Σ+lòu+ǎŋ,a ¹ Σ l ou ¹ a ¹⁵ ŋ,a ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo150,mu,3.sg.3.sg.fut.neg,á m̥ù lòu ǎŋ,á Σ lòu ǎŋ,á+Σ+lòu+ǎŋ,a ⁵ Σ l ou ¹ a ¹⁵ ŋ,a ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo151,ei,3.sg.3.pl.fut.neg,à éi lòu ǎŋ,à Σ lòu ǎŋ,à+Σ+lòu+ǎŋ,a ¹ Σ l ou ¹ a ¹⁵ ŋ,a ¹ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo152,mu,3.sg.3.pl.fut.neg,á m̥ù lòu ǎŋ,á Σ lòu ǎŋ,á+Σ+lòu+ǎŋ,a ⁵ Σ l ou ¹ a ¹⁵ ŋ,a ⁵ + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo153,ei,3.pl.3.sg.fut.neg,àn éi lòu ǎŋ,àn Σ lòu ǎŋ,à+n+Σ+lòu+ǎŋ,a ¹ n Σ l ou ¹ a ¹⁵ ŋ,a ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo154,mu,3.pl.3.sg.fut.neg,ǎn m̥ù lòu ǎŋ,ǎn Σ lòu ǎŋ,ǎ+n+Σ+lòu+ǎŋ,a ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,a ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo155,ei,3.pl.3.pl.fut.neg,àn éi lòu ǎŋ,àn Σ lòu ǎŋ,à+n+Σ+lòu+ǎŋ,a ¹ n Σ l ou ¹ a ¹⁵ ŋ,a ¹ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo156,mu,3.pl.3.pl.fut.neg,ǎn m̥ù lòu ǎŋ,ǎn Σ lòu ǎŋ,ǎ+n+Σ+lòu+ǎŋ,a ¹⁵ n Σ l ou ¹ a ¹⁵ ŋ,a ¹⁵ + n + Σ + l ou ¹ + a ¹⁵ ŋ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo157,kal,1.sg.nfut.aff,kà kál,kà Σ,kà+Σ,k a ¹ Σ,k a ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo158,tʰo:,1.sg.nfut.aff,ká tʰò:,ká Σ,ká+Σ,k a ⁵ Σ,k a ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo159,kal,1.pl.nfut.aff,kàn kál,kàn Σ,kà+n+Σ,k a ¹ n Σ,k a ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo160,tʰo:,1.pl.nfut.aff,kǎn tʰò:,kǎn Σ,kǎ+n+Σ,k a ¹⁵ n Σ,k a ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo161,ei,1.sg.2.sg.nfut.aff,kà éi tsé,kà Σ tsé,kà+Σ+tsé,k a ¹ Σ ts e ⁵,k a ¹ + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo162,mu,1.sg.2.sg.nfut.aff,ká m̥ù tsé,ká Σ tsé,ká+Σ+tsé,k a ⁵ Σ ts e ⁵,k a ⁵ + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo163,ei,1.sg.2.pl.nfut.aff,kà éi tsé ú,kà Σ tsé ú,kà+Σ+tsé+ú,k a ¹ Σ ts e ⁵ u ⁵,k a ¹ + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo164,mu,1.sg.2.pl.nfut.aff,ká m̥ù tsé ú,ká Σ tsé ú,ká+Σ+tsé+ú,k a ⁵ Σ ts e ⁵ u ⁵,k a ⁵ + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo165,ei,1.pl.2.sg.nfut.aff,kàn éi tsé,kàn Σ tsé,kà+n+Σ+tsé,k a ¹ n Σ ts e ⁵,k a ¹ + n + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo166,mu,1.pl.2.sg.nfut.aff,kǎn m̥ù tsé,kǎn Σ tsé,kǎ+n+Σ+tsé,k a ¹⁵ n Σ ts e ⁵,k a ¹⁵ + n + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo167,ei,1.pl.2.pl.nfut.aff,kàn éi tsé ú,kàn Σ tsé ú,kà+n+Σ+tsé+ú,k a ¹ n Σ ts e ⁵ u ⁵,k a ¹ + n + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo168,mu,1.pl.2.pl.nfut.aff,kǎn m̥ù tsé ú,kǎn Σ tsé ú,kǎ+n+Σ+tsé+ú,k a ¹⁵ n Σ ts e ⁵ u ⁵,k a ¹⁵ + n + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo169,ei,1.sg.3.sg.nfut.aff,kà éi,kà Σ,kà+Σ,k a ¹ Σ,k a ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo170,mu,1.sg.3.sg.nfut.aff,ká m̥ù,ká Σ,ká+Σ,k a ⁵ Σ,k a ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo171,ei,1.sg.3.pl.nfut.aff,kà éi,kà Σ,kà+Σ,k a ¹ Σ,k a ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo172,mu,1.sg.3.pl.nfut.aff,ká m̥ù,ká Σ,ká+Σ,k a ⁵ Σ,k a ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo173,ei,1.pl.3.sg.nfut.aff,kàn éi,kàn Σ,kà+n+Σ,k a ¹ n Σ,k a ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo174,mu,1.pl.3.sg.nfut.aff,kǎn m̥ù,kǎn Σ,kǎ+n+Σ,k a ¹⁵ n Σ,k a ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo175,ei,1.pl.3.pl.nfut.aff,kàn éi,kàn Σ,kà+n+Σ,k a ¹ n Σ,k a ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo176,mu,1.pl.3.pl.nfut.aff,kǎn m̥ù,kǎn Σ,kǎ+n+Σ,k a ¹⁵ n Σ,k a ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo177,kal,2.sg.nfut.aff,ì kál,ì Σ,ì+Σ,i ¹ Σ,i ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo178,tʰo:,2.sg.nfut.aff,í tʰò:,í Σ,í+Σ,i ⁵ Σ,i ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo179,kal,2.pl.nfut.aff,ìn kál,ìn Σ,ì+n+Σ,i ¹ n Σ,i ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo180,tʰo:,2.pl.nfut.aff,ǐn tʰò:,ǐn Σ,ǐ+n+Σ,i ¹⁵ n Σ,i ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo181,ei,2.sg.1.sg.nfut.aff,mì éi,mì Σ,mì+Σ,m i ¹ Σ,m i ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo182,ei,2.sg.1.sg.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo183,mu,2.sg.1.sg.nfut.aff,mí m̥ù,mí Σ,mí+Σ,m i ⁵ Σ,m i ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo184,mu,2.sg.1.sg.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo185,ei,2.sg.1.pl.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo186,mu,2.sg.1.pl.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo187,ei,2.pl.1.sg.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo188,mu,2.pl.1.sg.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo189,ei,2.pl.1.pl.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo190,mu,2.pl.1.pl.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo191,ei,2.sg.3.sg.nfut.aff,ì éi,ì Σ,ì+Σ,i ¹ Σ,i ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo192,mu,2.sg.3.sg.nfut.aff,í m̥ù,í Σ,í+Σ,i ⁵ Σ,i ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo193,ei,2.sg.3.pl.nfut.aff,ì éi,ì Σ,ì+Σ,i ¹ Σ,i ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo194,mu,2.sg.3.pl.nfut.aff,í m̥ù,í Σ,í+Σ,i ⁵ Σ,i ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo195,ei,2.pl.3.sg.nfut.aff,ìn éi,ìn Σ,ì+n+Σ,i ¹ n Σ,i ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo196,mu,2.pl.3.sg.nfut.aff,ǐn m̥ù,ǐn Σ,ǐ+n+Σ,i ¹⁵ n Σ,i ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo197,ei,2.pl.3.pl.nfut.aff,ìn éi,ìn Σ,ì+n+Σ,i ¹ n Σ,i ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo198,mu,2.pl.3.pl.nfut.aff,ǐn m̥ù,ǐn Σ,ǐ+n+Σ,i ¹⁵ n Σ,i ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo199,kal,3.sg.nfut.aff,à kál,à Σ,à+Σ,a ¹ Σ,a ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo200,tʰo:,3.sg.nfut.aff,á tʰò:,á Σ,á+Σ,a ⁵ Σ,a ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo201,kal,3.pl.nfut.aff,àn kál,àn Σ,à+n+Σ,a ¹ n Σ,a ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo202,tʰo:,3.pl.nfut.aff,ǎn tʰò:,ǎn Σ,ǎ+n+Σ,a ¹⁵ n Σ,a ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo203,ei,3.sg.1.sg.nfut.aff,mì éi,mì Σ,mì+Σ,m i ¹ Σ,m i ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo204,ei,3.sg.1.sg.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo205,mu,3.sg.1.sg.nfut.aff,mí m̥ù,mí Σ,mí+Σ,m i ⁵ Σ,m i ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo206,mu,3.sg.1.sg.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo207,ei,3.sg.1.pl.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo208,mu,3.sg.1.pl.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo209,ei,3.pl.1.sg.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo210,mu,3.pl.1.sg.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo211,ei,3.pl.1.pl.nfut.aff,mìn éi,mìn Σ,mìn+Σ,m i ¹ n Σ,m i ¹ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo212,mu,3.pl.1.pl.nfut.aff,mǐn m̥ù,mǐn Σ,mǐn+Σ,m i ¹⁵ n Σ,m i ¹⁵ n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo213,ei,3.sg.2.sg.nfut.aff,à éi tsé,à Σ tsé,à+Σ+tsé,a ¹ Σ ts e ⁵,a ¹ + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo214,mu,3.sg.2.sg.nfut.aff,á m̥ù tsé,á Σ tsé,á+Σ+tsé,a ⁵ Σ ts e ⁵,a ⁵ + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo215,ei,3.sg.2.pl.nfut.aff,à éi tsé ú,à Σ tsé ú,à+Σ+tsé+ú,a ¹ Σ ts e ⁵ u ⁵,a ¹ + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo216,mu,3.sg.2.pl.nfut.aff,á m̥ù tsé ú,á Σ tsé ú,á+Σ+tsé+ú,a ⁵ Σ ts e ⁵ u ⁵,a ⁵ + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo217,ei,3.pl.2.sg.nfut.aff,àn éi tsé,àn Σ tsé,à+n+Σ+tsé,a ¹ n Σ ts e ⁵,a ¹ + n + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo218,mu,3.pl.2.sg.nfut.aff,ǎn m̥ù tsé,ǎn Σ tsé,ǎ+n+Σ+tsé,a ¹⁵ n Σ ts e ⁵,a ¹⁵ + n + Σ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo219,ei,3.pl.2.pl.nfut.aff,àn éi tsé ú,àn Σ tsé ú,à+n+Σ+tsé+ú,a ¹ n Σ ts e ⁵ u ⁵,a ¹ + n + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo220,mu,3.pl.2.pl.nfut.aff,ǎn m̥ù tsé ú,ǎn Σ tsé ú,ǎ+n+Σ+tsé+ú,a ¹⁵ n Σ ts e ⁵ u ⁵,a ¹⁵ + n + Σ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo221,ei,3.sg.3.sg.nfut.aff,kà éi,kà Σ,à+Σ,a ¹ Σ,a ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo222,mu,3.sg.3.sg.nfut.aff,á m̥ù,á Σ,á+Σ,a ⁵ Σ,a ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo223,ei,3.sg.3.pl.nfut.aff,à éi,à Σ,à+Σ,a ¹ Σ,a ¹ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo224,mu,3.sg.3.pl.nfut.aff,á m̥ù,á Σ,á+Σ,a ⁵ Σ,a ⁵ + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo225,ei,3.pl.3.sg.nfut.aff,àn éi,àn Σ,à+n+Σ,a ¹ n Σ,a ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo226,mu,3.pl.3.sg.nfut.aff,ǎn m̥ù,ǎn Σ,ǎ+n+Σ,a ¹⁵ n Σ,a ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo227,ei,3.pl.3.pl.nfut.aff,àn éi,àn Σ,à+n+Σ,a ¹ n Σ,a ¹ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo228,mu,3.pl.3.pl.nfut.aff,ǎn m̥ù,ǎn Σ,ǎ+n+Σ,a ¹⁵ n Σ,a ¹⁵ + n + Σ,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo229,kal,1.sg.nfut.neg,kà kál lòu,kà Σ lòu,kà+Σ+lòu,k a ¹ Σ l ou ¹,k a ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo230,tʰo:,1.sg.nfut.neg,ká tʰò lòu,ká Σ lòu,ká+Σ+lòu,k a ⁵ Σ l ou ¹,k a ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo231,kal,1.pl.nfut.neg,kàn kál lòu,kàn Σ lòu,kà+n+Σ+lòu,k a ¹ n Σ l ou ¹,k a ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo232,tʰo:,1.pl.nfut.neg,kǎn tʰò lòu,kǎn Σ lòu,kǎ+n+Σ+lòu,k a ¹⁵ n Σ l ou ¹,k a ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo233,ei,1.sg.2.sg.nfut.neg,kà éi lòu tsé,kà Σ lòu tsé,kà+Σ+lòu+tsé,k a ¹ Σ l ou ¹ ts e ⁵,k a ¹ + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo234,mu,1.sg.2.sg.nfut.neg,ká m̥ù lòu tsé,ká Σ lòu tsé,ká+Σ+lòu+tsé,k a ⁵ Σ l ou ¹ ts e ⁵,k a ⁵ + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo235,ei,1.sg.2.pl.nfut.neg,kà éi lòu tsé ú,kà Σ lòu tsé ú,kà+Σ+lòu+tsé+ú,k a ¹ Σ l ou ¹ ts e ⁵ u ⁵,k a ¹ + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo236,mu,1.sg.2.pl.nfut.neg,ká m̥ù lòu tsé ú,ká Σ lòu tsé ú,ká+Σ+lòu+tsé+ú,k a ⁵ Σ l ou ¹ ts e ⁵ u ⁵,k a ⁵ + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo237,ei,1.pl.2.sg.nfut.neg,kàn éi lòu tsé,kàn Σ lòu tsé,kà+n+Σ+lòu+tsé,k a ¹ n Σ l ou ¹ ts e ⁵,k a ¹ + n + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo238,mu,1.pl.2.sg.nfut.neg,kǎn m̥ù lòu tsé,kǎn Σ lòu tsé,kǎ+n+Σ+lòu+tsé,k a ¹⁵ n Σ l ou ¹ ts e ⁵,k a ¹⁵ + n + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo239,ei,1.pl.2.pl.nfut.neg,kàn éi lòu tsé ú,kàn Σ lòu tsé ú,kà+n+Σ+lòu+tsé+ú,k a ¹ n Σ l ou ¹ ts e ⁵ u ⁵,k a ¹ + n + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo240,mu,1.pl.2.pl.nfut.neg,kǎn m̥ù lòu tsé ú,kǎn Σ lòu tsé ú,kǎ+n+Σ+lòu+tsé+ú,k a ¹⁵ n Σ l ou ¹ ts e ⁵ u ⁵,k a ¹⁵ + n + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo241,ei,1.sg.3.sg.nfut.neg,kà éi lòu,kà Σ lòu,kà+Σ+lòu,k a ¹ Σ l ou ¹,k a ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo242,mu,1.sg.3.sg.nfut.neg,ká m̥ù lòu,ká Σ lòu,ká+Σ+lòu,k a ⁵ Σ l ou ¹,k a ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo243,ei,1.sg.3.pl.nfut.neg,kà éi lòu,kà Σ lòu,kà+Σ+lòu,k a ¹ Σ l ou ¹,k a ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo244,mu,1.sg.3.pl.nfut.neg,ká m̥ù lòu,ká Σ lòu,ká+Σ+lòu,k a ⁵ Σ l ou ¹,k a ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo245,ei,1.pl.3.sg.nfut.neg,kàn éi lòu,kàn Σ lòu,kà+n+Σ+lòu,k a ¹ n Σ l ou ¹,k a ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo246,mu,1.pl.3.sg.nfut.neg,kǎn m̥ù lòu,kǎn Σ lòu,kǎ+n+Σ+lòu,k a ¹⁵ n Σ l ou ¹,k a ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo247,ei,1.pl.3.pl.nfut.neg,kàn éi lòu,kàn Σ lòu,kà+n+Σ+lòu,k a ¹ n Σ l ou ¹,k a ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo248,mu,1.pl.3.pl.nfut.neg,kǎn m̥ù lòu,kǎn Σ lòu,kǎ+n+Σ+lòu,k a ¹⁵ n Σ l ou ¹,k a ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo249,kal,2.sg.nfut.neg,ì kál lòu,ì Σ lòu,ì+Σ+lòu,i ¹ Σ l ou ¹,i ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo250,tʰo:,2.sg.nfut.neg,í tʰò lòu,í Σ lòu,í+Σ+lòu,i ⁵ Σ l ou ¹,i ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo251,kal,2.pl.nfut.neg,ìn kál lòu,ìn Σ lòu,ì+n+Σ+lòu,i ¹ n Σ l ou ¹,i ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo252,tʰo:,2.pl.nfut.neg,ǐn tʰò lòu,ǐn Σ lòu,ǐ+n+Σ+lòu,i ¹⁵ n Σ l ou ¹,i ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo253,ei,2.sg.1.sg.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo254,ei,2.sg.1.sg.nfut.neg,mì éi lòu,mì Σ lòu,mì+Σ+lòu,m i ¹ Σ l ou ¹,m i ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo255,mu,2.sg.1.sg.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo256,mu,2.sg.1.sg.nfut.neg,mí m̥ù lòu,mí Σ lòu,mí+Σ+lòu,m i ⁵ Σ l ou ¹,m i ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo257,ei,2.sg.1.pl.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo258,mu,2.sg.1.pl.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo259,ei,2.pl.1.sg.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo260,mu,2.pl.1.sg.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo261,ei,2.pl.1.pl.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo262,mu,2.pl.1.pl.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo263,ei,2.sg.3.sg.nfut.neg,ì éi lòu,ì Σ lòu,ì+Σ+lòu,i ¹ Σ l ou ¹,i ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo264,mu,2.sg.3.sg.nfut.neg,í m̥ù lòu,í Σ lòu,í+Σ+lòu,i ⁵ Σ l ou ¹,i ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo265,ei,2.sg.3.pl.nfut.neg,ì éi lòu,ì Σ lòu,ì+Σ+lòu,i ¹ Σ l ou ¹,i ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo266,mu,2.sg.3.pl.nfut.neg,í m̥ù lòu,í Σ lòu,í+Σ+lòu,i ⁵ Σ l ou ¹,i ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo267,ei,2.pl.3.sg.nfut.neg,ìn éi lòu,ìn Σ lòu,ì+n+Σ+lòu,i ¹ n Σ l ou ¹,i ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo268,mu,2.pl.3.sg.nfut.neg,ǐn m̥ù lòu,ǐn Σ lòu,ǐ+n+Σ+lòu,i ¹⁵ n Σ l ou ¹,i ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo269,ei,2.pl.3.pl.nfut.neg,ìn éi lòu,ìn Σ lòu,ì+n+Σ+lòu,i ¹ n Σ l ou ¹,i ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo270,mu,2.pl.3.pl.nfut.neg,ǐn m̥ù lòu,ǐn Σ lòu,ǐ+n+Σ+lòu,i ¹⁵ n Σ l ou ¹,i ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo271,kal,3.sg.nfut.neg,à kál lòu,à Σ lòu,à+Σ+lòu,a ¹ Σ l ou ¹,a ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo272,tʰo:,3.sg.nfut.neg,á tʰò lòu,á Σ lòu,á+Σ+lòu,a ⁵ Σ l ou ¹,a ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo273,kal,3.pl.nfut.neg,àn kál lòu,àn Σ lòu,à+n+Σ+lòu,a ¹ n Σ l ou ¹,a ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo274,tʰo:,3.pl.nfut.neg,ǎn tʰò lòu,ǎn Σ lòu,ǎ+n+Σ+lòu,a ¹⁵ n Σ l ou ¹,a ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo275,ei,3.sg.1.sg.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo276,ei,3.sg.1.sg.nfut.neg,mì éi lòu,mì Σ lòu,mì+Σ+lòu,m i ¹ Σ l ou ¹,m i ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo277,mu,3.sg.1.sg.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo278,mu,3.sg.1.sg.nfut.neg,mí m̥ù lòu,mí Σ lòu,mí+Σ+lòu,m i ⁵ Σ l ou ¹,m i ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo279,ei,3.sg.1.pl.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo280,mu,3.sg.1.pl.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo281,ei,3.pl.1.sg.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo282,mu,3.pl.1.sg.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo283,ei,3.pl.1.pl.nfut.neg,mìn éi lòu,mìn Σ lòu,mìn+Σ+lòu,m i ¹ n Σ l ou ¹,m i ¹ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo284,mu,3.pl.1.pl.nfut.neg,mǐn m̥ù lòu,mǐn Σ lòu,mǐn+Σ+lòu,m i ¹⁵ n Σ l ou ¹,m i ¹⁵ n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo285,ei,3.sg.2.sg.nfut.neg,à éi lòu tsé,à Σ lòu tsé,à+Σ+lòu+tsé,a ¹ Σ l ou ¹ ts e ⁵,a ¹ + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo286,mu,3.sg.2.sg.nfut.neg,á m̥ù lòu tsé,á Σ lòu tsé,á+Σ+lòu+tsé,a ⁵ Σ l ou ¹ ts e ⁵,a ⁵ + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo287,ei,3.sg.2.pl.nfut.neg,à éi lòu tsé ú,à Σ lòu tsé ú,à+Σ+lòu+tsé+ú,a ¹ Σ l ou ¹ ts e ⁵ u ⁵,a ¹ + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo288,mu,3.sg.2.pl.nfut.neg,á m̥ù lòu tsé ú,á Σ lòu tsé ú,á+Σ+lòu+tsé+ú,a ⁵ Σ l ou ¹ ts e ⁵ u ⁵,a ⁵ + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo289,ei,3.pl.2.sg.nfut.neg,àn éi lòu tsé,àn Σ lòu tsé,à+n+Σ+lòu+tsé,a ¹ n Σ l ou ¹ ts e ⁵,a ¹ + n + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo290,mu,3.pl.2.sg.nfut.neg,ǎn m̥ù lòu tsé,ǎn Σ lòu tsé,ǎ+n+Σ+lòu+tsé,a ¹⁵ n Σ l ou ¹ ts e ⁵,a ¹⁵ + n + Σ + l ou ¹ + ts e ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo291,ei,3.pl.2.pl.nfut.neg,àn éi lòu tsé ú,àn Σ lòu tsé ú,à+n+Σ+lòu+tsé+ú,a ¹ n Σ l ou ¹ ts e ⁵ u ⁵,a ¹ + n + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo292,mu,3.pl.2.pl.nfut.neg,ǎn m̥ù lòu tsé ú,ǎn Σ lòu tsé ú,ǎ+n+Σ+lòu+tsé+ú,a ¹⁵ n Σ l ou ¹ ts e ⁵ u ⁵,a ¹⁵ + n + Σ + l ou ¹ + ts e ⁵ + u ⁵,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo293,ei,3.sg.3.sg.nfut.neg,à éi lòu,à Σ lòu,à+Σ+lòu,a ¹ Σ l ou ¹,a ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo294,mu,3.sg.3.sg.nfut.neg,á m̥ù lòu,á Σ lòu,á+Σ+lòu,a ⁵ Σ l ou ¹,a ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo295,ei,3.sg.3.pl.nfut.neg,à éi lòu,à Σ lòu,à+Σ+lòu,a ¹ Σ l ou ¹,a ¹ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo296,mu,3.sg.3.pl.nfut.neg,á m̥ù lòu,á Σ lòu,á+Σ+lòu,a ⁵ Σ l ou ¹,a ⁵ + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo297,ei,3.pl.3.sg.nfut.neg,àn éi lòu,àn Σ lòu,à+n+Σ+lòu,a ¹ n Σ l ou ¹,a ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo298,mu,3.pl.3.sg.nfut.neg,ǎn m̥ù lòu,ǎn Σ lòu,ǎ+n+Σ+lòu,a ¹⁵ n Σ l ou ¹,a ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo299,ei,3.pl.3.pl.nfut.neg,àn éi lòu,àn Σ lòu,à+n+Σ+lòu,a ¹ n Σ l ou ¹,a ¹ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo
+mizo300,mu,3.pl.3.pl.nfut.neg,ǎn m̥ù lòu,ǎn Σ lòu,ǎ+n+Σ+lòu,a ¹⁵ n Σ l ou ¹,a ¹⁵ + n + Σ + l ou ¹,unspecified,Lalhminghlui2026Mizo,nopage,mizo

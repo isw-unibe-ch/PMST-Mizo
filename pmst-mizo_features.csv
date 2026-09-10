@@ -1,0 +1,10 @@
+value_id,label,feature,unimorph,language_id
+pl,plural,number,PL,mizo
+sg,singular,number,SG,mizo
+1,first person,person,1,mizo
+2,second person,person,2,mizo
+3,third person,person,3,mizo
+aff,affirmative,polarity,POS,mizo
+neg,negative,polarity,NEG,mizo
+fut,future,tense_aspect,FUT,mizo
+nfut,non-future,tense_aspect,,mizo
